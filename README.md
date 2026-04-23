@@ -7,7 +7,7 @@ A simple desktop application to store, manage, and quickly reuse your prompts.
 Built with **Python + CustomTkinter**, this tool is designed for people who frequently work with AI (ChatGPT, coding assistants, etc.) and need a clean way to organize prompts.
 
 ---
-<img width="710" height="672" alt="image" src="https://github.com/user-attachments/assets/5aad1f20-87b9-494d-a85c-a5ad99b7a933" />
+<img width="317" height="473" alt="image" src="https://github.com/user-attachments/assets/5aad1f20-87b9-494d-a85c-a5ad99b7a933" />
 
 
 ## 📥 Download & Installation
