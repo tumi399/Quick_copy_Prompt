@@ -13,9 +13,9 @@ Built with **Python + CustomTkinter**, this tool is designed for people who freq
 ### 🔹 Option 1: Download Executable (Recommended)
 
 👉 **Download latest version here:**
-**[Download Prompt Manager (.exe)](https://github.com/your-username/prompt-manager/releases)**
+**[Download Prompt Manager (.exe)](https://github.com/tumi399/Quick_copy_Prompt/releases)**
 
-> No installation required. Just download and run.
+> Just download, install and run.
 
 ---
 
