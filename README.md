@@ -7,6 +7,8 @@ A simple desktop application to store, manage, and quickly reuse your prompts.
 Built with **Python + CustomTkinter**, this tool is designed for people who frequently work with AI (ChatGPT, coding assistants, etc.) and need a clean way to organize prompts.
 
 ---
+<img width="710" height="672" alt="image" src="https://github.com/user-attachments/assets/5aad1f20-87b9-494d-a85c-a5ad99b7a933" />
+
 
 ## 📥 Download & Installation
 
@@ -23,30 +25,8 @@ Built with **Python + CustomTkinter**, this tool is designed for people who freq
 
 ```bash
 pip install customtkinter pillow cairosvg
-python main.py
+python application.py
 ```
-
----
-
-## ✨ Features
-
-* 📌 **Pin important prompts**
-  Keep frequently used prompts at the top.
-
-* 🔍 **Instant search**
-  Search by title or content in real-time.
-
-* ✏️ **Create / Edit / Delete prompts**
-  Easily manage your prompt library.
-
-* 📋 **One-click copy**
-  Copy prompt content directly to clipboard.
-
-* 🌙 **Dark / Light mode**
-  Toggle UI theme anytime.
-
-* 💾 **Persistent storage**
-  Data is saved locally (`AppData/PromptManager`).
 
 ---
 
@@ -61,22 +41,6 @@ python main.py
 
 ---
 
-## 📁 Project Structure
-
-```
-PromptManager/
-│
-├── main.py
-├── icons/
-│   ├── copy.svg
-│   ├── edit.svg
-│   ├── trash-2.svg
-│   ├── pin.svg
-│   └── ...
-└── app.ico
-```
-
----
 
 ## ⚙️ How It Works
 
@@ -96,14 +60,6 @@ PromptManager/
   * Falls back to sample prompts if file is missing/corrupted
   * Saves instantly after every change
 
----
-
-## 🚀 Run Locally
-
-```bash
-pip install customtkinter pillow cairosvg
-python main.py
-```
 
 ---
 
